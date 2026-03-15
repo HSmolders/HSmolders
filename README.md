@@ -12,7 +12,7 @@ As I dive deeper into the world of programming languages, I enjoy understanding 
 <br>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,docker,ts,svelte,git" height="40"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,ts,docker,svelte,git" height="40"/>
 </p>
 
 ---
