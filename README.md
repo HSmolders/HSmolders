@@ -16,3 +16,17 @@ As I dive deeper into the world of programming languages, I enjoy understanding 
 </p>
 
 ---
+
+### Featured Projects
+
+<p align="center">
+  <a href="https://github.com/hesmolde/INSERT_PROJECT_LINK_HERE">
+    <img src="media/Animation.gif" width="48%" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/hesmolde/INSERT_PROJECT_LINK_HERE">
+    <img src="media/julia_demo.gif" width="48%" />
+  </a>
+</p>
+
+---
