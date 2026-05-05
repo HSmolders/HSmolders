@@ -29,23 +29,25 @@ As I dive deeper into the world of programming languages, I enjoy understanding 
 
 ---
 
-<table align="center" width="100%">
+<table align="center" width="90%">
   <tr>
-    <td align="center" width="25%">
-      <a href="https://github.com/HSmolders/ft_printf"><b>ft_printf</b></a><br>
-      <sub>Variadic reimplementation of printf with full format‑specifier support, no external libs</sub>
+    <td align="center" width="50%" valign="top" style="padding: 12px;">
+      <a href="https://github.com/HSmolders/ft_printf"><b>ft_printf</b></a> &nbsp;·&nbsp; <sub><code>C</code></sub><br><br>
+      <sub>A from-scratch reimplementation of <code>printf</code> — variadic args, full flag &amp; specifier support, single-buffer output. Ships as a static library reused in every subsequent 42 project.</sub>
     </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/HSmolders/ft_push_swap"><b>ft_push_swap</b></a><br>
-      <sub>Stack‑sorting algorithm optimised for the minimum number of instructions</sub>
+    <td align="center" width="50%" valign="top" style="padding: 12px;">
+      <a href="https://github.com/HSmolders/ft_push_swap"><b>ft_push_swap</b></a> &nbsp;·&nbsp; <sub><code>C</code></sub><br><br>
+      <sub>Sorts a stack of integers using only 11 defined two-stack operations in the fewest possible moves — greedy cost model, rank normalisation, stays within 42's 5 500-op budget for 500 numbers.</sub>
     </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/HSmolders/ft_minishell"><b>ft_minishell</b></a><br>
-      <sub>POSIX‑compliant shell with pipes, redirections, environment and built‑in commands</sub>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top" style="padding: 12px;">
+      <a href="https://github.com/HSmolders/ft_minishell"><b>ft_minishell</b></a> &nbsp;·&nbsp; <sub><code>C</code></sub><br><br>
+      <sub>A working Unix shell — pipelines, redirections, here-docs, variable expansion, quote semantics, all bash builtins, and correct signal handling. No <code>system()</code>, no <code>popen()</code>.</sub>
     </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/HSmolders/ft_webserv"><b>ft_webserv</b></a><br>
-      <sub>HTTP/1.1 web server in C++ with config‑file parsing and CGI support</sub>
+    <td align="center" width="50%" valign="top" style="padding: 12px;">
+      <a href="https://github.com/HSmolders/ft_webserv"><b>ft_webserv</b></a> &nbsp;·&nbsp; <sub><code>C++17</code></sub><br><br>
+      <sub>An HTTP/1.1 server built on a single-thread <code>poll()</code> loop — nginx-style config, virtual hosts, location routing, CGI via fork+exec, chunked transfer, keep-alive, and file uploads.</sub>
     </td>
   </tr>
 </table>
