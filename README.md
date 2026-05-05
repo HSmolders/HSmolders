@@ -29,14 +29,25 @@ As I dive deeper into the world of programming languages, I enjoy understanding 
 
 ---
 
-<p align="center">
-  <a href="https://github.com/HSmolders/ft_minishell">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HSmolders&repo=minishell&theme=transparent&bg_color=00000000&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" width="48%" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/HSmolders/ft_webserv">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HSmolders&repo=webserv&theme=transparent&bg_color=00000000&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" width="48%" />
-  </a>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://github.com/HSmolders/ft_printf"><b>ft_printf</b></a><br>
+      <sub>Variadic reimplementation of printf with full format‑specifier support, no external libs</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/HSmolders/ft_push_swap"><b>ft_push_swap</b></a><br>
+      <sub>Stack‑sorting algorithm optimised for the minimum number of instructions</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/HSmolders/ft_minishell"><b>ft_minishell</b></a><br>
+      <sub>POSIX‑compliant shell with pipes, redirections, environment and built‑in commands</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/HSmolders/ft_webserv"><b>ft_webserv</b></a><br>
+      <sub>HTTP/1.1 web server in C++ with config‑file parsing and CGI support</sub>
+    </td>
+  </tr>
+</table>
 
 ---
